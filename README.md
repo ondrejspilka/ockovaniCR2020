@@ -21,3 +21,4 @@ Výsledkem je:
 Nechť to zemi pomůže nebo upadne v zapomnění.
 
 Modelové výsledky:
+![Modelové výsledky](modelove-vysledky.png)
