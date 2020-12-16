@@ -19,3 +19,5 @@ Výsledkem je:
 - v případě modelu s očkovacícmi centry také dopočet pracovní plochy nutné pro jedno očkovací pracoviště.
 
 Nechť to zemi pomůže nebo upadne v zapomnění.
+
+Modelové výsledky:
