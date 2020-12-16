@@ -9,7 +9,7 @@ Model je hloupý a velmi naivní, jeho vstupními parametry jsou:
 - počet nutných očkovacích akcí
 - utilizace lékařů a sester, měsíční fond pracovní doby
 
-Excel sheet modelující prostou statistiku logistiky očkování má dvě části.
+[Excel sheet](plan-ockovani-CR-2021.xlsx) modelující prostou statistiku logistiky očkování má dvě části.
 1. model s očkovacími centry v krajích
 2. model s praktiky
 
